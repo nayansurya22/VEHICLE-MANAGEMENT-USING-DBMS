@@ -1,0 +1,84 @@
+
+.item img{
+	width:100%;
+}
+
+.slider{
+ margin-top:2px;
+ width:100%;
+ margin-left:0px;
+ 
+}
+body {
+	background: #f1f4f7;
+	padding-top: 50px;
+	color: #5f6468;
+}
+
+.loginpage {
+    position: relative;
+    background: #000 url("../img/2.gif") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+	height: 741px;
+	margin-top: -50px
+}
+
+.footer {
+height: 50px;
+width: 1200px;
+float:left;
+margin-left:0px;
+}
+
+.col-md-3 ul {
+	padding-top: 15px;
+
+}
+.col-md-3 ul li {
+	margin-top:5px;
+}
+.col-md-3 ul li a {
+	padding: 0 5px;
+}
+.col-md-3 p {
+	color:blue;
+	padding-top: 25px;
+}
+.col-md-3 p a{
+	color:#fff;
+}
+.col-md-3 p a:hover{
+	text-decoration:underline;
+}
+
+.col-md-4 h4 {
+	color:purple;
+}
+.col-md-4 h3{
+	color: white;
+}
+
+.well h1{
+color: Brown;
+	
+}
+
+.well h2{
+	color:purple;
+}
+.well h3{
+	color:blue;
+}
+
+.col-md-3 h4{
+	color:blue;
+}
+.col-md-3 h5{
+	color:purple;
+}
+.col-md-3 h3{
+color:blue;
+}
